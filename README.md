@@ -8,11 +8,10 @@ Here are the links to some of my Backend and FullStack projects:
 
       + **Tech Stack:** Terraform, Shell
      
-3. [React Monster Directory](https://github.com/edward232232/monsters)
-   - This simple project is a showcase of using React with TypeScript. It demonstrates the ability to call an external API, specifically the Robohash API, to retrieve images 
-     Additionally, a search filter functionality has been implemented, allowing users to filter results based on their input.
+3. [Azure AI Semantic Search](https://github.com/edward232232/Azure-AI-Semantic-Search)
+   - A simple full-stack application developed using React for the frontend and Python for the backend. The purpose of this project is to demonstrate my proficiency in creating       a full-stack application that integrates with a cloud service on the backend. Specifically, this application uses Azure Search backend on the cloud to conduct semantic           search and full-text search for comparison.
 
-      + **Tech Stack:** JavaScript/Typescript, React, HTML/CSS
+      + **Tech Stack:** JavaScript/Typescript, React, Python, Azure, Azure AI Search
 
 5. [Project 3](https://github.com/username/project3)
    - Tech Stack: Angular, TypeScript, Material UI
