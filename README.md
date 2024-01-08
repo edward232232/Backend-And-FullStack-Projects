@@ -3,8 +3,8 @@
 
 Here are the links to some of my Backend and FullStack projects:
 
-1. [Terraform scripts](https://github.com/edward232232/Terraform_Azures)
-   -  Terraform scripts that I use for quick deployment of Azure Resources.
+1. [Terraform Collections](https://github.com/edward232232/Terraform_Azure)
+   -  Some of my frequent used Terraform scripts for quick deployment of Azure Resources.
 
       + **Tech Stack:** Terraform, Shell
      
