@@ -8,5 +8,7 @@ Here are the links to some of my Backend and FullStack projects:
 
       + **Tech Stack:** JavaScript/Typescript, React, Python, Azure, Azure AI Search
 
-2. [Project 3](https://github.com/username/project3)
-   - Tech Stack: Angular, TypeScript, Material UI
+2. [Serverless Azure Function Apps](https://github.com/edward232232/ServerlessAzureFunctionApps)
+   - This is an Azure Function App project that demonstrates the use of serverless technologies with Azure Service Bus and Azure Event Hub.
+  
+       + **Tech Stack:** C Sharp, Azure Function Triggers, Azure Functions Core Tools
