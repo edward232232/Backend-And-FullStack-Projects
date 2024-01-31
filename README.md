@@ -8,3 +8,7 @@ Here are the links to some of my Backend and FullStack projects:
 
       + **Tech Stack:** JavaScript/Typescript, React, Python, Azure, Azure AI Search
 
+2. [AI Image Analysis(Object Detection & Image to Text OCR)](https://github.com/edward232232/AI_Vision_Demo)
+   - This project showcases the integration of AI Azure Search Vision (Image analysis) application. It demonstrates the capabilities of image object detection, image-to-text  conversion, and Azure Blob for storage.
+
+    + **Tech Stack:** JavaScript/Typescript, Tailswind css, React, Python, Flask, Vite, Azure AI Vision
